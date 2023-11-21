@@ -1,3 +1,3 @@
-$("h1").css("color","blue");
-console.log($("img").attr("src"));
-$("a").attr("href","yahoo.com");
+$("button").click(function() {
+    $("h1").css("color","purple");
+});
